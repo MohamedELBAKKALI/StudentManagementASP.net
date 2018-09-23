@@ -1,0 +1,67 @@
+﻿@model IEnumerable<StudentManagement.Models.Student>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>
+    <form action="~/Views/Students/Search" method="get">
+        <p>
+
+            @Html.ViewBag.message
+            <input type="text" name="Groups" value="@ViewBag.Groups"/>
+            <select id="GroupsNamescombo">
+                @foreach (var item in @ViewBag.GroupsNames)
+                {
+                    <option>@Html.DisplayFor(model1 => item)</option>
+                }
+            </select>
+            <input type="submit" name="Search" value="Search" />
+        </p>
+    </form>
+   
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Group.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th></th>
+        </tr>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Group.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.StudentId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.StudentId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.StudentId })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

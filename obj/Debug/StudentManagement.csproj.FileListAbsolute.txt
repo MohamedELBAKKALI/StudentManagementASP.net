@@ -1,0 +1,309 @@
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\ApplicationInsights.config
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Antlr3.Runtime.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Newtonsoft.Json.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Owin.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Helpers.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Mvc.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Optimization.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Razor.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\WebGrease.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Helpers.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Mvc.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Optimization.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Razor.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Antlr3.Runtime.pdb
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Newtonsoft.Json.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Helpers.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Mvc.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Optimization.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Razor.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\EntityFramework.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+D:\TDI202 A M\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\ApplicationInsights.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Antlr3.Runtime.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Newtonsoft.Json.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Helpers.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Mvc.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Optimization.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Razor.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\WebGrease.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Helpers.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Mvc.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Optimization.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.Razor.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Antlr3.Runtime.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Newtonsoft.Json.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.Razor.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\EntityFramework.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.InitialModel.resources
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.InitialModel1.resources
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\ASP.net\Siteweb\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.AddElementsToGroups.resources
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\ApplicationInsights.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Antlr3.Runtime.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\EntityFramework.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Newtonsoft.Json.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Owin.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Helpers.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Mvc.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Optimization.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Razor.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\WebGrease.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.Web.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Helpers.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Mvc.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Optimization.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.Razor.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Antlr3.Runtime.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Newtonsoft.Json.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\EntityFramework.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.Razor.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\EntityFramework.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.InitialModel.resources
+C:\Users\LittleTikes\Desktop\med\aUSB_TPs2018\ASP.net_AllStaf\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
